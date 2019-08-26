@@ -1,0 +1,102 @@
+#itemName {
+    text-align: left;
+    position: absolute;
+    display: inline-block;
+    left: 540px;
+    font-size: 70px;
+    margin-top: 90px;
+    margin-bottom: 0px;
+}
+#quote {
+    left: 545px;
+    text-align: left;
+    display: inline-block;
+}
+#type {
+    left: 545px;
+    text-align: left;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #FFF;
+    text-align: center;
+}
+body {
+    margin: 0px;
+    background-color: #1E1E1E;
+}
+h1 {
+    font-size: 70px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+h2 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 180px;
+    font-weight: 100;
+    color: #8F8F8F;
+}
+#addToCart {
+    top: 185px;
+    position: absolute;
+    background-color: #3E3E3E;
+    padding: 10px 30px;
+    border-radius: 100px;
+    font-size: 20px;
+    left: 620px;
+}
+h4 {
+    position:absolute;
+    display: inline-block;
+    margin-top: 0px;
+    font-weight: 100;
+    color: #8F8F8F;
+    position: absolute;
+    margin-top: 75px;
+}
+h6 {
+    text-align: left;
+    position:absolute;
+    display: inline-block;
+    font-weight: 100;
+    color: #8F8F8F;
+    position: absolute;
+    margin-top: 225px;
+    left: 545px;
+}
+#item {
+    display: inline-block;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    margin: 75px;
+    left: 150px;
+}
+img {
+    width: 220px;
+    height: 220px;
+    margin-top: 1000px;
+    margin: 30px;
+}
+#topBar {
+    overflow: hidden;
+    background-color: #3E3E3E;
+}
+#topBar a{
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+#topBar .right {
+    margin: 10px;
+    float: right;
+    font-weight: 100;
+    font-size: 15px;
+}
+#topBar .left {
+    float: left;
+    font-size: 30px;
+}

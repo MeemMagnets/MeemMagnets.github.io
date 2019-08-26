@@ -1,0 +1,10 @@
+=====ID SYSTEM=====
+8 digit Base 64
+0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+-_
+000000A-
+= 10*(64^1) + 62
+= 640 + 62
+= ID 702
